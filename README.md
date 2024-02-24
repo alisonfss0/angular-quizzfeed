@@ -8,7 +8,7 @@ Small Angular application developed for exercise purposes, as part of an Angular
 
 ## Demo
 
-[...]
+https://github.com/alisonfss0/angular-quizzfeed/assets/125560943/e6665304-dac1-4926-8cd3-1ba2c47066fd
 
 ## Development server
 
