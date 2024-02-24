@@ -1,0 +1,61 @@
+{
+  "title": "Which animal are you most like?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What do you like to do in your free time?",
+      "options": [
+        { "id": 1, "name": "Play games", "alias": "A" },
+        { "id": 2, "name": "Read books", "alias": "B" },
+        { "id": 3, "name": "Go for a walk", "alias": "C" },
+        { "id": 4, "name": "Sleep", "alias": "D" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How do you deal with stress?",
+      "options": [
+        { "id": 1, "name": "I vent to my friends", "alias": "A" },
+        { "id": 2, "name": "I meditate or do yoga", "alias": "B" },
+        { "id": 3, "name": "I exercise or do sports", "alias": "C" },
+        { "id": 4, "name": "I eat comfort food", "alias": "D" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is your favorite type of music?",
+      "options": [
+        { "id": 1, "name": "Pop", "alias": "A" },
+        { "id": 2, "name": "Classical", "alias": "B" },
+        { "id": 3, "name": "Rock", "alias": "C" },
+        { "id": 4, "name": "Jazz", "alias": "D" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How do you make friends?",
+      "options": [
+        { "id": 1, "name": "I'm outgoing and friendly", "alias": "A" },
+        { "id": 2, "name": "I'm reserved and polite", "alias": "B" },
+        { "id": 3, "name": "I'm adventurous and fun", "alias": "C" },
+        { "id": 4, "name": "I'm loyal and supportive", "alias": "D" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is your dream vacation?",
+      "options": [
+        { "id": 1, "name": "A theme park", "alias": "A" },
+        { "id": 2, "name": "A museum", "alias": "B" },
+        { "id": 3, "name": "A beach", "alias": "C" },
+        { "id": 4, "name": "A cabin in the woods", "alias": "D" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "You are most like a monkey! You are playful, social, and curious. You love to have fun and make others laugh. You are always up for a challenge and a good time.",
+    "B": "You are most like an owl! You are wise, calm, and observant. You enjoy learning new things and expanding your horizons. You are not easily disturbed by the noise and chaos around you.",
+    "C": "You are most like a tiger! You are fierce, energetic, and independent. You like to explore new places and try new things. You are not afraid to stand up for yourself and your beliefs.",
+    "D": "You are most like a bear! You are cozy, relaxed, and caring. You like to indulge in your favorite foods and activities. You are loyal to your friends and family and protect them from harm."
+  }
+}
